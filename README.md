@@ -96,6 +96,5 @@ Feel free to submit a pull request if you'd like to contribute! Open an issue fo
 
 ---
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
+
 
